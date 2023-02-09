@@ -1,0 +1,13 @@
+## Alerts
+Atenção Ativo: EURJPY-M5-V2-300 | Horário: 1675360200 | Direção: --- | Padrão: PADRAO-M5-V1 | Mercado: aberto
+Atenção Ativo: EURJPY-M5-V2-300 | Horário: 1675360200 | Direção: --- | Padrão: PADRAO-M5-V1 | Mercado: aberto
+
+Atenção Ativo: EURJPY-M5-V2-300 | Horário: 1675360200 | Direção: --- | Padrão: PADRAO-M5-V1 | Mercado: aberto
+Atenção Ativo: EURJPY-M5-V2-300 | Horário: 1675360200 | Direção: --- | Padrão: PADRAO-M5-V1 | Mercado: aberto
+
+
+## Operations
+EURJPY 02/02/2023 12:55:00 call
+EURJPY 02/02/2023 12:55:00 put
+EURJPY-OTC 02/02/2023 12:55:00 call
+EURJPY-OTC 02/02/2023 12:55:00 put
