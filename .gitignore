@@ -1,0 +1,6 @@
+config_db.py
+credenciais.txt
+testes.py
+__pycache__
+logs_api.log
+logs_api.text

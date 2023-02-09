@@ -1,0 +1,26 @@
+/*create table app_estrategias_2_operacoesiqoption_testeAlert (
+id int auto_increment primary key,
+option_id varchar(55),
+open_time varchar(25),
+expiration_time varchar(25),
+direction varchar(55),
+active varchar(55),
+mercado varchar(55),
+resultado varchar(55),
+padrao varchar(55),
+
+name_estrategy varchar(55),
+alert_datetime varchar(25),
+expiration_alert varchar(25),
+expiration_alert_timestamp varchar(55),
+status_alert varchar(55)
+);*/
+
+
+/*create table operations_errors (
+id int auto_increment primary key,
+date_time varchar(25),
+message varchar(255),
+active varchar(55),
+status_operation int
+);*/
